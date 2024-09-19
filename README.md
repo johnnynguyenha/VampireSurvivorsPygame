@@ -15,9 +15,9 @@
 ✓ Animation  
 ✓ Importing Sprites  
 ✓ Timers  
-✓ Knowledge of Rects, Sprites, Image, Key Detection
-✓ Objected Oriented
-✓ Gun follows cursor based on angle between gun and player
+✓ Knowledge of Rects, Sprites, Image, Key Detection  
+✓ Objected Oriented  
+✓ Gun follows cursor based on angle between gun and player  
 
 ## Notes
 - Enemies are randomly generated throughout the screen based on a tile system.  

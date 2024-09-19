@@ -36,12 +36,18 @@ D - Move right
 Left Click - Shoot laser  
 
 ## Running
-To run, Python must be installed. In addition, Pygame-ce must be installed.   
+To run, Python must be installed. In addition, Pygame-ce and pytmx must be installed.   
 Pygame can be installed via   
 ```
 pip install pygame-ce  
 or   
 pip3 install pygame-ce  
+```
+Pytmx is used to import the tileset and can be installed via
+```
+pip install pytmx 
+or   
+pip3 install pytmx 
 ```
 Afterwards, the game can be ran using 
 ```

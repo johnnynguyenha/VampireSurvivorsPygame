@@ -1,6 +1,6 @@
 ﻿# Vampire Survivors in Pygame
 ## Summary
-"Vampire Survivors in Pygame" is a game developed by Johnny Nguyen made using Pygame. Pygame is a Python library that helps developers create games. "Vampire Survivors in Pygame" is a simple game where the player shoots enemies that spawn randomly around the player. The player must move and shoot at enemies to survive. If the player gets hit by an enemy, the player dies and the game is over. If the player shoots a bullet at an enemy and it hits, the enemy is destroyed. The gun of the player follows the cursor of the player, up to a max distance away from the player.
+"Vampire Survivors in Pygame" is a game developed by Johnny Nguyen made using Pygame. Pygame is a Python library that helps developers create games. "Vampire Survivors in Pygame" is inspired by the original game "Vampire Survivors", in which the player is surrounded by a constant stream of enemies and the player must eliminate them. "Vampire Survivors in Pygame" is a simple game where the player shoots enemies that spawn randomly around the player. The player must move and shoot at enemies to survive. If the player gets hit by an enemy, the player dies and the game is over. If the player shoots a bullet at an enemy and it hits, the enemy is destroyed. The gun of the player follows the cursor of the player, up to a max distance away from the player.
 ![{20971DAB-41BB-4F35-91E1-019D986B3DE7}](https://github.com/user-attachments/assets/06d9a62d-18c3-4f33-855b-31956d933a64)
 
 

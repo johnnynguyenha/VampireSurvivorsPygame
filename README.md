@@ -30,10 +30,10 @@
 
 ## Controls
 W - Move up  
-A - Move down  
-S - Move left  
+A - Move left  
+S - Move down  
 D - Move right  
-Left Click - Shoot laser  
+Left Click - Shoot bullet   
 
 ## Running
 To run, Python must be installed. In addition, Pygame-ce and pytmx must be installed.   
